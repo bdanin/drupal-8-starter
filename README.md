@@ -3,6 +3,10 @@ Starter package and instructions for Drupal 8 development
 
 _open source project by Brian Danin_
 
+## Getting started
+run these commands:
+- `lando composer update && lando composer install`
+
 based on:
 # Composer template for Drupal projects
 
